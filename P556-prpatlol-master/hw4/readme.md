@@ -8,5 +8,4 @@ Alloted Team : [Prateesh Reddy](https://github.iu.edu/CSCI-P556-Spring-2021/P556
 
 
 ####  Problem Statement: [homework 4 ](hw4.pdf)
-####  Submission: 
-Consider Vakharia Milind [submission](https://github.iu.edu/CSCI-P556-Spring-2021/P556-mivakh/tree/master/hw4) for grading.
+
